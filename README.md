@@ -2,3 +2,4 @@ Extension à installer sur un navigateur chrome. Ajout de l'overley croix bleue 
 
 Manifest version 3
 
+![Image](https://github.com/AvirKarakitsos/JSextensionchrome/blob/main/assets/screenshot.png?raw=true)
