@@ -63,7 +63,7 @@
 })();
 
 function getTime(t){
-    var date = new Date(0);
+    let date = new Date(0);
     date.setSeconds(t);
     return date.toISOString().substring(11,19)
 }
